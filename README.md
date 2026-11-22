@@ -1,4 +1,4 @@
-# Technical Profile & Professional Development
+             # Technical Profile & Professional Development
 
 <p align="center">
   <strong>Infrastructure Engineering · Security Research · OSINT · Software Development</strong>
